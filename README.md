@@ -1,5 +1,12 @@
 # Encapsulation
-Great question! Let's dive **in detail** into how the **class loading into the Method Area** looks and works **internally**, using your example (`Student` and `StudentDriver` classes).
+Final List of Java Programs for GitHub: Encapsulation Projects
+1. 🏦 BankAccountSystem.java
+2. 🔐 StudentInfoSystem.java
+3. 🔋 BatteryManagementSystem.java
+4. 🧾 EmployeePayrollSystem.java
+5. 🚗 CarInfoSystem.java
+
+Let's dive **in detail** into how the **class loading into the Method Area** looks and works **internally**, using your example (`Student` and `StudentDriver` classes).
 
 ## 🔍 1. What is the **Method Area**?
 
