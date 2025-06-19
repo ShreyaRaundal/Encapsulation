@@ -480,11 +480,8 @@ main() --> setPhNo()   --> Heap updated --> return to main()
 4. Constructor and setters working across Stack ↔ Heap
 
 ---
-
-Would you like me to generate a **complete PDF/slide deck** summarizing all 6 steps with visuals?
-
-
-
+---
+---
 ### **Java Object Loading Process - Encapsulation Example**
 
 #### **1. Class Loading -> Method Area**
